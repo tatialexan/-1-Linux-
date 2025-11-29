@@ -1,5 +1,6 @@
 # -1-Linux-
 Я обновила ядро, но не сохранила изменения перед перезагрузкой. Прикладываю скрин после обновления и код соотвественно. На скрине в верхней части уже обновленное ядро, ниже попыталась воспроизвести команды, которыми обновляла ядро.
+Поэтому в самом нижнем скрине - история из ubuntu за сегодня.
 Обновление ядра системы
 <img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/2205ea46-c069-4ba6-8703-0889d1df2203" />
 
@@ -31,3 +32,13 @@ lrwxrwxrwx 1 root root       25 Aug  5 17:38 vmlinuz -> vmlinuz-6.14.0-27-generi
 -rw------- 1 root root 15546760 Aug  5 17:38 vmlinuz-6.14.0-27-generic
 lrwxrwxrwx 1 root root       25 Aug  5 17:38 vmlinuz.old -> vmlinuz-6.14.0-27-generic
 ubuntu@ubuntu:~/kernel$ 
+
+История работы в ubuntu за сегодня:
+
+<img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/9e706a19-8d33-4294-ac62-4416b019fe19" />
+
+<img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/7a60eda3-79fa-400b-a4a5-34e71e6f6867" />
+
+
+
+
